@@ -1,0 +1,81 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4014
+D 8-bit static shift register
+K shift register SR PISO
+F https://assets.nexperia.com/documents/data-sheet/HEF4021B.pdf
+$ENDCMP
+#
+$CMP 4015
+D Dual Binary Up-Counter
+K CMOS
+F http://www.intersil.com/content/dam/Intersil/documents/cd45/cd4518bms-20bms.pdf
+$ENDCMP
+#
+$CMP 40175
+D 4-bit D Flip-Flop, reset
+K TTL REG REG4 DFF
+F http://www.ti.com/lit/gpn/sn74LS175
+$ENDCMP
+#
+$CMP 4019
+D Phase Comp & VCO
+K CMOS PLL
+F https://assets.nexperia.com/documents/data-sheet/HEF4046B.pdf
+$ENDCMP
+#
+$CMP 4024
+D Binary Counter 7 stages (Asynchronous)
+K CMOS CNT CNT12
+F http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4020bms-24bms-40bms.pdf
+$ENDCMP
+#
+$CMP 4031
+D Phase Comp & VCO
+K CMOS PLL
+F https://assets.nexperia.com/documents/data-sheet/HEF4046B.pdf
+$ENDCMP
+#
+$CMP 4068
+D Dual 4 inputs Nand
+K CMOS Nand4
+F http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4011bms-12bms-23bms.pdf
+$ENDCMP
+#
+$CMP 4517
+D Phase Comp & VCO
+K CMOS PLL
+F https://assets.nexperia.com/documents/data-sheet/HEF4046B.pdf
+$ENDCMP
+#
+$CMP 4556
+D Dual Decoder 1 of 4, Active low outputs
+K TTL DECOD4
+F http://www.ti.com/lit/ds/symlink/sn74ls139a.pdf
+$ENDCMP
+#
+$CMP DS12885
+D Real-Time Clock, I2C Interface, 3 GPO, QFN-16
+K rtc
+F https://abracon.com/Precisiontiming/AB08X5-RTC.PDF
+$ENDCMP
+#
+$CMP Jumper_3_Bridged12
+D Jumper, 3-pole, pins 1+2 closed/bridged
+K Jumper SPDT
+F ~
+$ENDCMP
+#
+$CMP Jumper_3_Open
+D Jumper, 3-pole, both open
+K Jumper SPDT
+F ~
+$ENDCMP
+#
+$CMP Jumper_9_Open
+D Jumper, 3-pole, both open
+K Jumper SPDT
+F ~
+$ENDCMP
+#
+#End Doc Library
