@@ -18,5 +18,5 @@ BOMS and any applicable errata or other notes can be found in [notes](https://gi
 
 For availability of kits and bare PCBs please see http://madole.net/1802/mini/kits
 
-![1802/Mini Pixie Video Front](https://github.com/dmadole/1802-Mini-9918-Video/blob/main/photos/1802-mini-pixie-rev-d-assembled-front.jpg)
+![1802/Mini Pixie Video Front](https://github.com/dmadole/1802-Mini-Pixie-Video/blob/main/photos/1802-mini-pixie-video-rev-d-assembled-front.jpg)
  
